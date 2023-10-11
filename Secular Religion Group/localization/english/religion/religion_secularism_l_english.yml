@@ -1,0 +1,86 @@
+﻿l_english:
+
+ #Generic Secular/Common Secular Localization
+ secularism_religion:0 "Secularism"
+ secularism_religion_adj:0 "Secular"
+ secularism_religion_adherent:0 "Secular"
+ secularism_religion_adherent_plural:0 "Seculars"
+ secularism_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of secularism."
+
+ secularism_high_god_name:0 "Mother Earth"
+ secularism_high_god_name_2:0 "$secularism_high_god_name$" # Optional translation alt
+ secularism_high_god_name_possessive:0 "Mother Earth's"
+ secularism_high_god_name_alternate:0 "Gaia"
+ secularism_high_god_name_alternate_possessive:0 "Gaia's"
+ secularism_good_god_father_sky:0 "$secularism_trickster_god_name$"
+ secularism_good_god_ancestors:0 "the ancestors"
+ secularism_devil_name:0 "corruption"
+ secularism_devil_name_possessive:0 "corruption's"
+ secularism_devil_shehe:0 "it"
+ secularism_devil_herselfhimself:0 "itself"
+ secularism_devil_herhis:0 "its"
+ secularism_evil_god_decay:0 "blight"
+ secularism_evil_god_decay_possessive:0 "blight's"
+ secularism_evil_god_drought:0 "drought"
+ secularism_death_deity_name:0 "death"
+ secularism_death_deity_name_possessive:0 "death's"
+ secularism_death_deity_herhis:0 "its"
+ secularism_mother_earth_father_sky:0 "Mother Earth and Father Sky"
+ secularism_mother_earth_father_sky_2:0 "$secularism_mother_earth_father_sky$" # Optional translation alt
+ secularism_mother_earth_father_sky_3:0 "$secularism_mother_earth_father_sky$" # Optional translation alt
+ 
+
+ secularism_creator_god_name:0 "$secularism_high_god_name$"
+ secularism_creator_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_health_god_name:0 "$secularism_high_god_name$"
+ secularism_health_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_fertility_god_name:0 "$secularism_high_god_name$"
+ secularism_fertility_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_wealth_god_name:0 "$secularism_high_god_name$"
+ secularism_wealth_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_household_god_name:0 "$secularism_high_god_name$"
+ secularism_household_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_fate_god_name:0 "fate"
+ secularism_fate_god_name_possessive:0 "fate's"
+ secularism_knowledge_god_name:0 "$secularism_high_god_name$"
+ secularism_knowledge_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_war_god_name:0 "$secularism_high_god_name$"
+ secularism_war_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+ secularism_trickster_god_name:0 "Father Sky"
+ secularism_trickster_god_name_possessive:0 "Father Sky"
+ secularism_night_god_name:0 "$secularism_trickster_god_name$"
+ secularism_night_god_name_possessive:0 "$secularism_trickster_god_name_possessive$"
+ secularism_water_god_name:0 "$secularism_high_god_name$"
+ secularism_water_god_name_possessive:0 "$secularism_high_god_name_possessive$"
+
+ secularism_house_of_worship:0 "temple"
+ secularism_house_of_worship_2:0 "$secularism_house_of_worship$" # Optional translation alt
+ secularism_house_of_worship_3:0 "$secularism_house_of_worship$" # Optional translation alt
+ secularism_house_of_worship_plural:0 "temples"
+ secularism_religious_symbol:0 "triquetra"
+ secularism_religious_symbol_2:0 "$secularism_religious_symbol$" # Optional translation alt
+ secularism_religious_symbol_3:0 "$secularism_religious_symbol$" # Optional translation alt
+ secularism_religious_text:0 "sacred stories"
+ secularism_religious_text_2:0 "$secularism_religious_text$" # Optional translation alt
+ secularism_religious_text_3:0 "$secularism_religious_text$" # Optional translation alt
+ secularism_religious_head_title:0 "High Shaman"
+ secularism_religious_head_title_name:0 "High Council"
+ secularism_devotee:0 "devotee"
+ secularism_devoteeplural:0 "devotees"
+ secularism_priest:0 "shaman"
+ secularism_priest_plural:0 "shamans"
+ secularism_priest_alternate_plural:1 "elders"
+ secularism_divine_realm:0 "the Heavens"
+ secularism_divine_realm_2:0 "$secularism_divine_realm$" # Optional translation alt
+ secularism_divine_realm_3:0 "$secularism_divine_realm$" # Optional translation alt
+ secularism_afterlife:0 "the underworld"
+ secularism_afterlife_2:0 "$secularism_afterlife$" # Optional translation alt
+ secularism_afterlife_3:0 "$secularism_afterlife$" # Optional translation alt
+ witchgodname_secularism_the_shadow:0 "the Shadow"
+ witchgodname_secularism_the_shadow_possessive:0 "the Shadow's"
+
+
+ secular:0 "Secularism"
+ secular_adj:0 "Secular"
+ secular_adherent:0 "Secular"
+ secular_adherent_plural:0 "Seculars"
