@@ -22,8 +22,8 @@ secularism_religion = {
 	doctrine = doctrine_no_head
 
 	traits = {
-		virtues = { brave calm chaste content diligent forgiving generous greagrious honest humble just patient trusting zealous compassionate fickle }
-		sins = { craven wrathful lustful ambitious lazy vengeful greedy shy deceitful arrogant arbitrary impatient gluttonous paranoid cynical sadistic eccentric }
+		virtues = {  }
+		sins = {  }
 	}
 
 	reserved_male_names = {
